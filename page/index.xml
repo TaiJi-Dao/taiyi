@@ -2,70 +2,180 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on 太一小屋</title>
-        <link>https://taiji-dao.github.io/hugoA/page/</link>
+        <link>https://taiji-dao.github.io/taiyi/page/</link>
         <description>Recent content in Pages on 太一小屋</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>太一小屋</copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://taiji-dao.github.io/hugoA/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Archives</title>
-        <link>https://taiji-dao.github.io/hugoA/archives/</link>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://taiji-dao.github.io/taiyi/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>归档</title>
+        <link>https://taiji-dao.github.io/taiyi/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://taiji-dao.github.io/hugoA/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Links</title>
-        <link>https://taiji-dao.github.io/hugoA/links/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://taiji-dao.github.io/hugoA/links/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Search</title>
-        <link>https://taiji-dao.github.io/hugoA/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://taiji-dao.github.io/hugoA/search/</guid>
+        <guid>https://taiji-dao.github.io/taiyi/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>关于</title>
-        <link>https://taiji-dao.github.io/hugoA/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://taiji-dao.github.io/taiyi/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://taiji-dao.github.io/hugoA/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://taiji-dao.github.io/taiyi/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1 id=&#34;太一道简介&#34;&gt;太一道简介
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;​       创始人为卫州（今河南汲县一带地方）萧抱珍，时在金熙宗天眷年间（西元1138－1140年）。其教传“太一三元法籙”之术，故名“太一”。全真道和真大道教皆不太注重符籙法术，而太一道独以此出名，颇与天师道相接近。主张以老子之学修身，以巫祝之术御世。元王鹗《重修太一广福万寿宫碑》谓：“初，真人既得道，即以仙圣所授秘籙济人，祈禳词禁，罔不立验。天眷初，其法大行。”元王恽《秋涧集》六一《韩君碣铭》谓：“远迩向风，受籙为门徒者岁无虑千数”。足见当时信奉太一道者之多。金熙宗皇统八年（西元1148年）诏萧抱珍赴阙，颇加礼敬，敕所居观额以“太一万寿”四字。元宪宗二年（西元1252年），元世祖忽必烈尚未正式登帝位，曾封萧抱珍为“一悟真人”。萧抱珍行教达三十年。卒於金大定六年（西元1252年）。萧抱珍去世后，由其弟子韩道熙嗣教，仍袭萧姓，故亦名萧道熙。金大定九年（西元1169年），金世宗敕在观内建立“万寿”额碑。太一道“声教大振，门徒增盛”（《秋涧集》四七《二租形状》），达数万人之多，其流布区域，“东渐於海”（同上）。太一道传嗣有秘籙法物，继法嗣者皆改姓萧，即以祖师之姓为姓。四传至萧抱珍之再从孙萧辅道，元世祖以“安车来聘”（《秋涧集》三八《清跸殿记》），并赐号“中和仁靖真人”。五传至萧居寿（本姓李），《元史·释老志》谓：“至元十一年（西元1274年），建太一宫於两京，命居寿居之，领祠事，且禋祀六丁，十三年（西元1276年），赐太一掌教宗师印”。太一道六传至萧全佑（本名李），七传至萧天佑（本姓蔡）。其教至元泰定帝也孙铁木儿泰定间（公元1324－1328年）犹不衰。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;何为道&#34;&gt;何为道
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;老子曰：上士闻道，勤而行之；中士闻道，若存若亡；下士闻道，大笑之。故不笑不足以为道！&lt;/p&gt;
+&lt;p&gt;什么是道？&lt;/p&gt;
+&lt;p&gt;道是万事万物的发展规律！物有物之道，人有人之道，天有天之道！天道、常道、大道！道普遍存在于各个时空和领域，在相对的空间里，道时时刻刻无处不在。&lt;/p&gt;
+&lt;p&gt;道决定了事物的发展方向！道决定了事件的最终结果！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;论述当下大部分人对正一的误解正一允许吃荤不用出家可以结婚&#34;&gt;论述当下大部分人对“正一”的误解！正一允许吃荤，不用出家，可以结婚？
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;在当下的社会中，不管是道教教内还是教外，大部分人喜欢把道教分为“正一”和“全真”个大体系。&lt;/p&gt;
+&lt;p&gt;认为正一里面包含了：净明、清微、三皇、上清、灵宝、天师、神霄等等派系。&lt;/p&gt;
+&lt;p&gt;认为全真里面包含了：龙门、南无、先天、华山、蓬莱等等派系。&lt;/p&gt;
+&lt;p&gt;那么在这两大道教体系之中，在他们的眼中普遍认为正一道的体系里是允许吃荤，不需要对于戒律过多要求，而且不用出家，可以结婚生子，也不需要学习经文教旨，只是注重斋醮科仪，风水术数，以及法术之流；全真道的体系里是严格要求出家茹素，恪守戒律，学习经教，注重内丹，强调性命双修并且不能生育后代。&lt;/p&gt;
+&lt;p&gt;在个人眼里这样用一个词就给我们道教各种派系笼统的强下定义是不严谨的，也不是很负责任的一种行为。&lt;/p&gt;
+&lt;p&gt;自古以来正一道对于戒律威仪、性命双修、经文教旨并及茹素出家几个问题十分看重。首先较大的误解在于正一道除了所谓四不吃（即牛狗乌鱼大雁）都没有禁忌，殊不知道教斋法中便十分注重不沾荤腥一个行为。&lt;/p&gt;
+&lt;p&gt;道教中分荤和腥两种，荤是指韭、薤、蒜、芸薹、胡荽这五样，腥是肉质食品，道经云：“真人体质清虚，不染秽恶，妖魅阴浊所聚，惟喜血食。”&lt;/p&gt;
+&lt;p&gt;所以祖天师提出：神不饮食的一个观念，而人要修炼成神也必须避开荤腥这个杂秽之气，在正一上清派《黄庭经》中也说“五味外美邪魔腥。臭乱神明胎气零，那从反老得还婴？”&lt;/p&gt;
+&lt;p&gt;故此道教中比佛宗更早，是世界上最早一个提出茹素不沾荤腥的宗教，也可以说是世界素食主义者的先驱，从侧面也可以反应出，全真茹素行为并非和佛教学习，沿用道教的观念。&lt;/p&gt;
+&lt;p&gt;那么还有一个较大的误解便是正一不提倡“出家”，个人针对这个问题想沿用陈耀庭先生的一个观点：即道教出家并非源于佛教，而是修道生活必然的结果。&lt;/p&gt;
+&lt;p&gt;入山修行都是清苦的生活，结庐为伴而已，每日餐风饮露，怎么可能拖家带口的一起到山里面去修道，故此上古的方士也好还是后来的祖师们也好，入山林中修行都是一个人而已，充其量带几个徒弟入山，所以说这是修行的必然结果——出家。&lt;/p&gt;
+&lt;p&gt;早期祖天师创教时候也是要求祭酒只能在规定的治靖内行动，可以理解为在城镇内出家的一个早期模型，而后北魏寇谦之改革天师道，规定道徒可在家立坛，朝夕礼拜，不必出家修行。&lt;/p&gt;
+&lt;p&gt;提倡方便法门，才有了道士能在家修行。但是正一道依旧保留有出家，并没有废弃，唐《太上出家传度仪》称，“夫出家者，义趣甚深，利益洪远。出家有两种，一者恩爱，二者诸有始学之人，既值明师，志能勤苦，执事奉承，餐受妙训。若在居家，父母妻子，爱累相缠，如处囹圄，不得自在，适意从容，远近随师，询请玄业。故告父母，请别妻子，舍离居室，远游山林，依凭道舍，弃俗服玩，黄褐玄巾，舍世荣华，随缘告乞，广建福田，惟道是务。”&lt;/p&gt;
+&lt;p&gt;这段话明确地说明了道士出家的原因和目的，而在此之前南北朝还有《洞玄灵宝出家因缘经》，可以看出家这个定义，是道教固有，也不是全真学习佛教而有，而是道教本来就具备的一个为了更好修行而定制的教规。&lt;/p&gt;
+&lt;p&gt;至于戒律方面自祖天师创教便立想尔戒以约束道民：“行五为，行柔弱，行守雌，勿先动，此上最三行；行无名，行清静，行诸善，此中最三行；行无欲，行知止足，行推让，此下最三行”。&lt;/p&gt;
+&lt;p&gt;这只是最原始的正一戒律，在正一祖师们的眼里“戒，解也，界也，止也。能解众恶之缚，能分善恶之界，防止诸恶”。&lt;/p&gt;
+&lt;p&gt;故此而后便提出更多的戒律如《老君说一百八十戒》、《女青律戒》等等，并且还提出道徒们需要严守威仪，从住观、饮食、事师、奉道、斋醮等多个方面一百三五条威仪中，要求行住坐卧都必须规范，以至于洗手梳头都需要诵咒，在《云笈七签》、《净明宗教录》中便有睡醒时咒曰∶当愿众坐，从迷入觉，一旦豁然。让教徒们达到真正的身心合一，无有妄念。&lt;/p&gt;
+&lt;p&gt;故此张继宗天师的《崆峒问答》中会提出：“何谓正一？正者不邪，一者不杂。正一之心则万法归一，故曰正一。”&lt;/p&gt;
+&lt;p&gt;那么基于这个原因，正一的祖师们认为如果修道之人过于专注风水术数，阳神阴神，附体上身一流，则是违道离经的做法，南北朝天师道陆修静祖师提出“祭祀鬼神祈求福禄，谓之邪，称鬼神语占察吉凶谓之袄，非师老科教而妄作忌讳，是之巫书是图占冢宅地基堪舆凶咎之属，需上章驱除…正科所明，永不肯从，法之所禁，而竟尊用，背真向伪，谓之倒也。”&lt;/p&gt;
+&lt;p&gt;四十三代张宇初天师也曾在《道门十规》说：高行之士，惟务致虚守静，一念不生，万缘俱寂，性天道法，心地雷霆，不落万缘之窠臼，惟究向上之真宗，斯为上士也。又等圆光附体，降将附箕，扶鸾照水，诸项邪说，行持正法之士，所不宜道。&lt;/p&gt;
+&lt;p&gt;因此《老君说一百八十戒》的第七十七和七十八戒中提出：不得为人图山立冢宅起屋；不得上知星文卜相天时。&lt;/p&gt;
+&lt;p&gt;所以我们可以发现正一道的一个更为清晰的轮廓，是一个仙家之正者。&lt;/p&gt;
+&lt;p&gt;那么因为历史的原因自清朝统治者对于道教的打压，加上近代的一些原因使得正一道士被迫迎合民间文化，使得原来的面貌难以呈现，对于这个情况六十三代天师张恩溥感慨说：“有些离经叛道的巫术，渗入了道教的范畴，不仅拖道教之名而存在，在某些地方几乎代替了道教，导致广大道众丧失宗教自觉，未能维护道教正信观念。”&lt;/p&gt;
+&lt;p&gt;这个现状是当下的一个遗憾，不过当下道教界已经在努力恢复道教的文化，那么个人也希望弟子能够逐步的正知正信，去了解到正一道的本来文化，而不会受到那些不正之风的影响去对它产生偏见，管孔之见，方家正之，慈悲！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;修道为什么普及不了&#34;&gt;修道为什么普及不了
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;初级阶段：&lt;/p&gt;
+&lt;p&gt;辟谷、祝由、法事、八卦、算数、吟诗、作画抚琴、书法、符篆、围棋、舞剑、辨药材、懂医理。&lt;/p&gt;
+&lt;p&gt;中级阶段：&lt;/p&gt;
+&lt;p&gt;上知天文、下断地理、挥毫能写意、泼墨起山水把脉引生死、望气观富贵、茶杯装世界、袖里含乾坤&lt;/p&gt;
+&lt;p&gt;高级阶段：&lt;/p&gt;
+&lt;p&gt;出儒入佛都相似、游戏尘世若行道&lt;/p&gt;
+&lt;p&gt;天地禹步风生水起、寻龙点穴呼风唤雨，上天入地斗转星移、功成名就天之道、荣华富贵一云烟。&lt;/p&gt;
+&lt;p&gt;山医命相卜随便哪个技能点都不是普通人能学的。单单一个中医中上之境、就要数十万人里挑一个更何况五术齐全、炉火纯青之地步！总之技能太拽太高大上，攻略难度太大、并不是谁都能玩得起的！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;道教太一派字辈&#34;&gt;道教太一派字辈
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;
+怀玄抱真，道合清虚 &lt;br&gt;鼎德宏法，保汉宣善&lt;br&gt;至礼三宝，承化弘宗&lt;br&gt;主昊太一，合立大同
+&lt;/blockquote&gt;
 </description>
+        </item>
+        <item>
+        <title>回放</title>
+        <link>https://taiji-dao.github.io/taiyi/%E5%9B%9E%E6%94%BE/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://taiji-dao.github.io/taiyi/%E5%9B%9E%E6%94%BE/</guid>
+        <description>&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h3 id=&#34;太一门授课回放&#34;&gt;太一门授课回放
+&lt;/h3&gt;&lt;h4 id=&#34;开营及过经&#34;&gt;开营及过经
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/KEwVROGN18&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;太一第4期开营&lt;/a&gt; 访问密码：NOC4&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/2kmOxeol35&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;八大神咒第一课&lt;/a&gt;   访问密码：UJRP&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/K0LME77K0a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;八大神咒第二课&lt;/a&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/NLWzo9Bpcc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;内外门统一过经&lt;/a&gt;  访问密码：8QOF&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/2yvJB0bNbb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;早坛功课经之清静经&lt;/a&gt; 访问密码：qjj1&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;小六壬&#34;&gt;小六壬
+&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/l6a3DOZN90&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;太一文初小六壬教学&lt;/a&gt; 访问密码：RUWV&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;八卦万物类象图&#34;&gt;八卦万物类象图
+&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;录制：[内门核心课程八卦万物类象图](https://meeti ng.tencent.com/crm/N8rjOXoKc5)  访问密码：2468&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;太一八字基础课&#34;&gt;太一八字基础课
+&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/Nobdg1z29c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;太一八字基础课&lt;/a&gt; 访问密码：1314&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;太一内门符箓&#34;&gt;太一内门符箓
+&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/NAxZZ5e2a5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;太一内门符箓第一课&lt;/a&gt; 访问密码：1314&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/l6zOn7mlbf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;太一门太岁符教学&lt;/a&gt; 访问密码：XWXF&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/l79wXynxc1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;内门符箓教学3&lt;/a&gt; 访问密码：CVBX&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;祝由术掌中符&#34;&gt;祝由术掌中符
+&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/290g8R9Kaa&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;祝由术掌中符第一节&lt;/a&gt; 访问密码：8ANG&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/NQey3oRN3c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;祝由术掌中符第二节&lt;/a&gt; 访问密码：zzf2&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/l6wjkYGKc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;祝由术掌中符第三节&lt;/a&gt; 访问密码：OYEL&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;太一内门风水&#34;&gt;太一内门风水
+&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/N1rVRJEl68&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;太一内门风水第一课&lt;/a&gt; 访问密码：8Z4L&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/KzEb91Lrc9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;内门风水第二节&lt;/a&gt; 访问密码：RG4O&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/N8j03wP1e6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;风水详解第二节&lt;/a&gt; 访问密码：7JAS&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;道医养生&#34;&gt;道医养生
+&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/2yEJOXo269&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;道医养生吃喝拉撒睡&lt;/a&gt; 访问密码：1314&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/2jvkrqrnb9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;内门弟子道医养生功第一节&lt;/a&gt; 访问密码：V5L9&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;净宅安宅科仪br&#34;&gt;净宅安宅科仪&lt;br&gt;
+&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/NodGRwBae0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;净宅安宅科仪&lt;/a&gt; 访问密码：GY4F&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;太一财神阁&#34;&gt;太一财神阁
+&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/KEonZZ7d34&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;财神文化&lt;/a&gt; 访问密码：2FDI&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;录制: &lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/24G7Do0m2d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;财神文化的应用&lt;/a&gt; 密码：QWER&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/2Yow9yLQ5c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;内门财富赚钱+入门新规&lt;/a&gt; 访问密码：DL8O&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;还愿仪式布财局还阴债补财库&#34;&gt;还愿仪式+布财局+还阴债补财库
+&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;录制：&lt;a class=&#34;link&#34; href=&#34;https://meeting.tencent.com/crm/2kWW3LOg7b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;还愿仪式+布财局+为什么还阴债补财库&lt;/a&gt; 访问密码：KTL4&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://taiji-dao.github.io/taiyi/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://taiji-dao.github.io/taiyi/search/</guid>
+        <description></description>
         </item>
         
     </channel>

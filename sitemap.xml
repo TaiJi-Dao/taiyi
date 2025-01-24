@@ -2,79 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://taiji-dao.github.io/hugoA/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://taiji-dao.github.io/taiyi/</loc>
+    <lastmod>2025-01-24T20:31:51+08:00</lastmod>
   </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://taiji-dao.github.io/taiyi/post/</loc>
+    <lastmod>2025-01-24T20:31:51+08:00</lastmod>
   </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://taiji-dao.github.io/taiyi/p/%E8%BF%98%E6%84%BF%E4%BB%AA%E5%BC%8F-%E5%B8%83%E8%B4%A2%E5%B1%80-%E8%B4%A1%E7%81%B6%E7%A5%9E-%E8%BF%98%E9%98%B4%E5%AE%85%E8%A1%A5%E8%B4%A2%E5%BA%93/</loc>
+    <lastmod>2025-01-24T20:31:51+08:00</lastmod>
   </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://taiji-dao.github.io/taiyi/p/%E7%A7%91%E4%BB%AA%E5%87%80%E5%AE%85%E4%BB%AA%E5%BC%8F/</loc>
+    <lastmod>2025-01-24T20:23:53+08:00</lastmod>
   </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://taiji-dao.github.io/taiyi/p/%E8%87%AA%E7%84%B6%E5%85%BB%E7%94%9F%E6%B3%95%E5%90%83%E5%96%9D%E6%8B%89%E6%92%92%E7%9D%A1%E7%9A%84%E6%99%BA%E6%85%A7/</loc>
+    <lastmod>2025-01-24T20:15:21+08:00</lastmod>
   </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://taiji-dao.github.io/taiyi/p/%E5%A4%AA%E4%B8%80%E9%A3%8E%E6%B0%B4%E8%AF%BE/</loc>
+    <lastmod>2025-01-24T19:55:34+08:00</lastmod>
   </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/archives/</loc>
+    <loc>https://taiji-dao.github.io/taiyi/p/%E5%A4%AA%E4%B8%80%E9%97%A8%E7%A5%9D%E7%94%B1%E6%9C%AF/</loc>
+    <lastmod>2025-01-24T19:42:36+08:00</lastmod>
+  </url><url>
+    <loc>https://taiji-dao.github.io/taiyi/p/%E5%A4%AA%E4%B8%80%E7%AC%A6%E7%AE%93/</loc>
+    <lastmod>2025-01-24T19:27:47+08:00</lastmod>
+  </url><url>
+    <loc>https://taiji-dao.github.io/taiyi/p/%E5%A4%AA%E4%B8%80%E5%85%AB%E5%AD%97%E5%9F%BA%E7%A1%80%E8%AF%BE/</loc>
+    <lastmod>2025-01-24T19:15:45+08:00</lastmod>
+  </url><url>
+    <loc>https://taiji-dao.github.io/taiyi/p/%E5%86%85%E9%97%A8%E6%A0%B8%E5%BF%83%E8%AF%BE-%E5%85%AB%E5%8D%A6%E4%B8%87%E7%89%A9%E7%B1%BB%E8%B1%A1%E5%9B%BE/</loc>
+    <lastmod>2025-01-24T18:52:54+08:00</lastmod>
+  </url><url>
+    <loc>https://taiji-dao.github.io/taiyi/p/%E5%B0%8F%E5%85%AD%E5%A3%AC/</loc>
+    <lastmod>2025-01-24T18:00:49+08:00</lastmod>
+  </url><url>
+    <loc>https://taiji-dao.github.io/taiyi/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/page/</loc>
+    <loc>https://taiji-dao.github.io/taiyi/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://taiji-dao.github.io/taiyi/categories/</loc>
   </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://taiji-dao.github.io/taiyi/tags/</loc>
   </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://taiji-dao.github.io/taiyi/categories/test/</loc>
   </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/p/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://taiji-dao.github.io/taiyi/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://taiji-dao.github.io/taiyi/%E5%9B%9E%E6%94%BE/</loc>
   </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/p/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/tags/tag-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/categories/test-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/p/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/p/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/links/</loc>
-  </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/search/</loc>
-  </url><url>
-    <loc>https://taiji-dao.github.io/hugoA/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://taiji-dao.github.io/taiyi/search/</loc>
   </url>
 </urlset>
